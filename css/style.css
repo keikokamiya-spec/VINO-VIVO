@@ -266,7 +266,7 @@ header.scrolled {
 .map-container {
     width: 100%;
     height: 400px;
-    filter: invert(90%) hue-rotate(180deg) brightness(95%);
+    border: 0;
 }
 
 /* Animations */
